@@ -12,10 +12,8 @@ public class Principal {
 		double i = Math.floor(num);
 		double f = num - i;
 		double a = Math.round(num);
-		
-		System.out.println("___________________");
-		System.out.println("====RESULTADOS=====");
-		System.out.println("___________________");
+		
+		System.out.println("     Resultados     ");
 		System.out.println("A parte inteira do número digitado é: " + i);
 		System.out.println("A parte fracionaria do número digitado é: " + f);
 		System.out.println("A parte arredondada do número digitado é: " + a); }
