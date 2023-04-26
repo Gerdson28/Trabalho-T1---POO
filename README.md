@@ -15,6 +15,6 @@
   
  # Em conjunto com: 
   
- ## <a title = "Você será direcionado ao perfil de Gerdson28" href = "https://github.com//Gerdson28" >Gerdson28</a><br> 
+ ## <a title = "Você será direcionado ao perfil de nicolasnk11" href = "https://github.com//nicolasnk11" >nicolasnk11</a><br> 
   
  <img alt="Java-Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
